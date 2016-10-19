@@ -1,0 +1,35 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="homeyzone.com" resolutions="1x" timestamp="1466045035181">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="3783610943" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="webpro.js" crc="3803554875" ref="index"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="suitejrmasterbed_0.jpg" crc="4011848790" seo="true" ref="index"/>
+    <file name="homeyzonelogobrown.png" crc="167959695" seo="true" ref="index"/>
+    <file name="cactus.jpg" crc="3808245396" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="road.jpg" crc="4114599295" seo="true" ref="index"/>
+    <file name="trees.jpg" crc="335357505" seo="true" ref="index"/>
+    <file name="cactus68x45.jpg" crc="381701099" seo="true" ref="index"/>
+    <file name="road68x45.jpg" crc="4220447013" seo="true" ref="index"/>
+    <file name="trees68x45.jpg" crc="4146958310" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="phone-call-icon-h_icon_phone_b-1024x1024.png" crc="103476142" seo="true" ref="index"/>
+    <file name="email-icon.png" crc="321160936" seo="true" ref="index"/>
+    <file name="bedroom-hd-wallpaper-23.jpg" crc="4181784514" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4244904404" seo="true" mt="1466044942509" redirect="true"/>
+</manifest>
